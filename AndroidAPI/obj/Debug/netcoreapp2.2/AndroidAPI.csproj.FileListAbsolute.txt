@@ -1,0 +1,14 @@
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\bin\Debug\netcoreapp2.2\AndroidAPI.deps.json
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\bin\Debug\netcoreapp2.2\AndroidAPI.runtimeconfig.json
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\bin\Debug\netcoreapp2.2\AndroidAPI.runtimeconfig.dev.json
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\bin\Debug\netcoreapp2.2\AndroidAPI.dll
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.csprojAssemblyReference.cache
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.csproj.CoreCompileInputs.cache
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.RazorAssemblyInfo.cache
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.RazorAssemblyInfo.cs
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.AssemblyInfoInputs.cache
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.AssemblyInfo.cs
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.RazorTargetAssemblyInfo.cache
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\bin\Debug\netcoreapp2.2\AndroidAPI.pdb
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.dll
+D:\DOKUMENTEN\Cursussen\J4S1\Android\AndroidAPI\AndroidAPI\obj\Debug\netcoreapp2.2\AndroidAPI.pdb
