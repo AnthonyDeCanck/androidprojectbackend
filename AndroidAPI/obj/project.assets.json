@@ -13021,11 +13021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\Android\\AndroidAPI\\AndroidAPI\\AndroidAPI.csproj",
+      "projectUniqueName": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\AndroidBackend\\androidprojectbackend\\AndroidAPI\\AndroidAPI.csproj",
       "projectName": "AndroidAPI",
-      "projectPath": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\Android\\AndroidAPI\\AndroidAPI\\AndroidAPI.csproj",
+      "projectPath": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\AndroidBackend\\androidprojectbackend\\AndroidAPI\\AndroidAPI.csproj",
       "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\Android\\AndroidAPI\\AndroidAPI\\obj\\",
+      "outputPath": "D:\\DOKUMENTEN\\Cursussen\\J4S1\\AndroidBackend\\androidprojectbackend\\AndroidAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
